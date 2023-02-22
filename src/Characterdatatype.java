@@ -1,7 +1,7 @@
 public class Characterdatatype
 {
     public static void main(String[] args) {
-     char s='b';
+     char s='d';
      System.out.println(s);
     }
 }

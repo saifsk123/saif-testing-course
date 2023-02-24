@@ -5,4 +5,3 @@ public class LoginPage {
         String s2="naveen3"
     }
 }
-

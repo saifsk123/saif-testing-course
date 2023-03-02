@@ -29,7 +29,7 @@ public class Returntypemethods
     public static void main(String[] args)
     {
         Returntypemethods obj= new Returntypemethods();
-         obj.addition()
+         obj.addition();
                  int d= obj.addition();
                  int e=d*20;
                  System.out.println(e);

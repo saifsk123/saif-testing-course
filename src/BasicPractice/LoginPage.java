@@ -1,3 +1,5 @@
+package BasicPractice;
+
 public class LoginPage {
     public void verifyloginbutton()
     {

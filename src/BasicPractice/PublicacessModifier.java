@@ -1,3 +1,5 @@
+package BasicPractice;
+
 public class PublicacessModifier {
     public void publicMethod()  //method declaration
     {

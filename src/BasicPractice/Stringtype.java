@@ -1,3 +1,5 @@
+package BasicPractice;
+
 public class Stringtype {
 
     public static void main(String[] args)

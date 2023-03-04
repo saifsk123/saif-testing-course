@@ -1,3 +1,5 @@
+package BasicPractice;
+
 public class Characterdatatype
 {
     public static void main(String[] args) {

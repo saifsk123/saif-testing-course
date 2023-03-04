@@ -1,3 +1,5 @@
+package BasicPractice;
+
 public class Returntypemethods
 {
     public int addition()

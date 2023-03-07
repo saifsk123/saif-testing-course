@@ -1,7 +1,8 @@
 package MainClassses.VariableRunner;
 
 import Variables.NonStaticVariables;
-import Variables.StaticVariables;
+import Variables.Staticvariables;
+import Variables.Staticvariables;
 
 public class VariablesMain
 {
@@ -10,8 +11,8 @@ public class VariablesMain
         NonStaticVariables obj=new NonStaticVariables();
                 int age=obj.age;
               System.out.println(age);
-        StaticVariables obj1=new StaticVariables();
-        int age2=StaticVariables.age1;
+        Staticvariables obj1=new Staticvariables();
+        int age2=Staticvariables.age1;
         System.out.println(age2);
 
 

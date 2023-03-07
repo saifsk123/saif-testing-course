@@ -10,9 +10,6 @@ public class Main {
         int result=obj.add(10);
         PrivateAcessModifier obj1=new PrivateAcessModifier();
         obj1.addition(20);
-        ProtectedAcessModifier obj3=new ProtectedAcessModifier();
-        obj3.
-
     }
 }
 
